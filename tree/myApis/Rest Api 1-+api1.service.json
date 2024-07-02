@@ -1,8 +1,8 @@
 {
   "goid": "84449671abe2a5b143051dbdfdf7e686",
   "guid": "f516508a-c166-4c09-8134-1b6bd3615869",
-  "name": "Rest Api 8",
-  "resolutionPath": "/api8",
+  "name": "Rest Api 9",
+  "resolutionPath": "/api9",
   "serviceType": "WEB_API",
   "enabled": true,
   "folderPath": "/myApis",
@@ -19,7 +19,7 @@
       "All": [
         {
           "SetVariable": {
-            "expression": "hello api 8",
+            "expression": "hello api 9",
             "variable": "service_specific_var"
           }
         },
