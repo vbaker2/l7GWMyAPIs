@@ -20,7 +20,7 @@
       "All": [
         {
           "SetVariable": {
-            "expression": "hello api Vince",
+            "expression": "hello api Vince2",
             "variable": "service_specific_var"
           }
         },
