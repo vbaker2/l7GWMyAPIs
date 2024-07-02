@@ -4,7 +4,7 @@
   "name": "Rest Api 9",
   "resolutionPath": "/api9",
   "serviceType": "WEB_API",
-  "checksum": "cef71354d1ec51ecdb157a761e0e8df6cd489b5d",
+#  "checksum": "cef71354d1ec51ecdb157a761e0e8df6cd489b5d",
   "enabled": true,
   "folderPath": "/myApis",
   "methodsAllowed": [
