@@ -20,7 +20,7 @@
       "All": [
         {
           "SetVariable": {
-            "expression": "hello world",
+            "expression": "hello Carlos",
             "variable": "service_specific_var"
           }
         },
