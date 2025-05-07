@@ -20,7 +20,7 @@
       "All": [
         {
           "SetVariable": {
-            "expression": "Welcome to DICOS User Day[s]",
+            "expression": "Welcome to DICOS User Day[s] 2025",
             "variable": "service_specific_var"
           }
         },
