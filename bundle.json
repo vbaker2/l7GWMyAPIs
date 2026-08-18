@@ -69,11 +69,11 @@
     ],
     "properties": {
         "meta": {
-            "id": "f6bf728f-4661-4e62-8021-08e271df1957",
-            "name": "Gateway Graphman Bundle - 2026-08-18T05:24:43.984Z",
+            "id": "fb2097e6-351e-4b5b-b0d3-ee21d92da9e7",
+            "name": "Gateway Graphman Bundle - 2026-08-18T05:35:01.178Z",
             "author": "admin",
             "hostname": "192.168.97.171",
-            "timestamp": "2026-08-18T05:24:43.984Z"
+            "timestamp": "2026-08-18T05:35:01.178Z"
         },
         "defaultAction": "NEW_OR_UPDATE"
     }
